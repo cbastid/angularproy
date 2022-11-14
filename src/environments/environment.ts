@@ -4,7 +4,8 @@
 
 export const environment = {
   production: false,
-  serviceGetAll : 'http://localhost:8000/dataAll'
+  serviceGetAll : 'http://localhost:8000/dataAll',
+  serviceGetById : 'http://localhost:8000/dataID'
 
 };
 
